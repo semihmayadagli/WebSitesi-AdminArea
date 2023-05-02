@@ -1,6 +1,7 @@
 ﻿using HaftalikGorev.Data;
 using HaftalikGorev.Entities;
 using HaftalikGorev.Tools;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -8,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HaftalikGorev.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    [Area("Admin"),Authorize]
     public class ProductsController : Controller
     {
         private readonly Databasecontext _databasecontext;

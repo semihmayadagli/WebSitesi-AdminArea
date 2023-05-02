@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj": {}
+    "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj": {
+    "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj",
+        "projectUniqueName": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj",
         "projectName": "HaftalikGorev",
-        "projectPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj",
+        "projectPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj",
         "packagesPath": "C:\\Users\\semih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R1\\HaftalikGorev\\obj\\",
+        "outputPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\semih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.6, )"
             }
           },
           "imports": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

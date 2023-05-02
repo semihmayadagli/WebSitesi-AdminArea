@@ -1,11 +1,12 @@
 ﻿using HaftalikGorev.Data;
 using HaftalikGorev.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HaftalikGorev.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    [Area("Admin"),Authorize]
     public class UsersController : Controller
     {
         private readonly Databasecontext _databasecontext;
