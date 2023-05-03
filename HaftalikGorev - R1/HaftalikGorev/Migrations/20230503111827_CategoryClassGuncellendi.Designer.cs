@@ -4,6 +4,7 @@ using HaftalikGorev.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HaftalikGorev.Migrations
 {
     [DbContext(typeof(Databasecontext))]
-    partial class DatabasecontextModelSnapshot : ModelSnapshot
+    [Migration("20230503111827_CategoryClassGuncellendi")]
+    partial class CategoryClassGuncellendi
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -11,5 +11,6 @@ namespace HaftalikGorev.Entities
         public string? Description { get; set; }
         [Display(Name ="Oluşturma Tarihi")]
         public DateTime? CreateDate{ get; set; }=DateTime.Now;
+        public virtual List<Product> Products { get; set; }
     }
 }

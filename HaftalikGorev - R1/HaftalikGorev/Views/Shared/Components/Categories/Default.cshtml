@@ -1,0 +1,11 @@
+﻿@using HaftalikGorev.Entities;
+
+@model IEnumerable<Category>
+
+@foreach (var item in Model)
+{
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Categories" asp-action="Index" asp-route-id="@item.Name">@item.Name</a>
+    </li>
+}
+
