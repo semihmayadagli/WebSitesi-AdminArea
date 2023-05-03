@@ -1,21 +1,28 @@
-﻿using HaftalikGorev.Models;
+﻿using HaftalikGorev.Data;
+using HaftalikGorev.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace HaftalikGorev.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly Databasecontext _databasecontext;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(Databasecontext databasecontext)
         {
-            _logger = logger;
+            _databasecontext = databasecontext;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> IndexAsync()
         {
-            return View();
+            var model = new HomePageModel()
+            {
+                Sliders = _databasecontext.Sliders.ToList(),
+                Products = await _databasecontext.Products.ToListAsync()
+            };
+            return View(model);
         }
 
         public IActionResult Privacy()

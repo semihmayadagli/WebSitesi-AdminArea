@@ -9,145 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HaftalikGorev
 build_property.RootNamespace = HaftalikGorev
-build_property.ProjectDir = C:\Users\semih\OneDrive\Masaüstü\ASP.Net Mvc\97-HaftalikGorev\HaftalikGorev - R2\HaftalikGorev\
+build_property.ProjectDir = C:\Users\semih\OneDrive\Masaüstü\WebSitesi-AdminArea-main\WebSitesi-AdminArea-main\HaftalikGorev - R1\HaftalikGorev\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\semih\OneDrive\Masaüstü\ASP.Net Mvc\97-HaftalikGorev\HaftalikGorev - R2\HaftalikGorev
+build_property.MSBuildProjectDirectory = C:\Users\semih\OneDrive\Masaüstü\WebSitesi-AdminArea-main\WebSitesi-AdminArea-main\HaftalikGorev - R1\HaftalikGorev
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Brand/Create.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Brand/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Brand/Delete.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Brand/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Brand/Edit.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Brand/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Brand/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Categories/Create.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Categories/Delete.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Categories/Edit.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Categories/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Login/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Main/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Main/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFpblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Products/Create.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Products/Delete.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Products/Edit.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Products/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Slider/Create.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Slider/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Slider/Delete.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Slider/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Slider/Edit.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Slider/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Slider/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Slider/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Users/Create.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Users/Delete.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Users/Edit.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Users/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/Home/Index.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/Home/Privacy.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/Shared/Error.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/_ViewImports.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/_ViewStart.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-jz499go4s0
 
-[C:/Users/semih/OneDrive/Masaüstü/ASP.Net Mvc/97-HaftalikGorev/HaftalikGorev - R2/HaftalikGorev/Views/Shared/_Layout.cshtml]
+[C:/Users/semih/OneDrive/Masaüstü/WebSitesi-AdminArea-main/WebSitesi-AdminArea-main/HaftalikGorev - R1/HaftalikGorev/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9p868b2hk6

@@ -10573,11 +10573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj",
+      "projectUniqueName": "C:\\Users\\semih\\OneDrive\\Masaüstü\\WebSitesi-AdminArea-main\\WebSitesi-AdminArea-main\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj",
       "projectName": "HaftalikGorev",
-      "projectPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj",
+      "projectPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\WebSitesi-AdminArea-main\\WebSitesi-AdminArea-main\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj",
       "packagesPath": "C:\\Users\\semih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\obj\\",
+      "outputPath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\WebSitesi-AdminArea-main\\WebSitesi-AdminArea-main\\HaftalikGorev - R1\\HaftalikGorev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\semih\\AppData\\Roaming\\NuGet\\NuGet.Config",

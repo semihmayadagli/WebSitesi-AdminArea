@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "056Wkel7qO+K8HeIhbcVd5eqmkA+PBYA2O/vDys80ejYxhvKph4jLfl+scSDGDN7CxtyyalrDRunLiF7vqWoag==",
+  "dgSpecHash": "Gr3akE3exBf2eTZ+nyVnUYi0Dq+o81HrcnvRJE98jx9mVsKgDTDSTycNXEQ4bEV4RXdHCkkC3UwlvfAuA3sncg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\ASP.Net Mvc\\97-HaftalikGorev\\HaftalikGorev - R2\\HaftalikGorev\\HaftalikGorev.csproj",
+  "projectFilePath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\WebSitesi-AdminArea-main\\WebSitesi-AdminArea-main\\HaftalikGorev - R1\\HaftalikGorev\\HaftalikGorev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\semih\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
